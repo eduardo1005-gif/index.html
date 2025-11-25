@@ -25,7 +25,7 @@ Site do quarteto Fantastico
     </ul>
     <h1>Renan</h1>
     <ul>
-    <li>faculdade:Não fez.</li>
+    <li>faculdade:Não quero fazer.</li>
     <li>time:Não tenho.</li>
     <li>emprego:CLT.</li>
     <li>viagem:Não quero.</li>
